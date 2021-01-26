@@ -6,10 +6,10 @@
 	],
 	"key":{
 		"x":{
-			"item": "assemblylinemachines:titanium_ingot"
+			"tag": "forge:ingots/titanium"
 		},
 		"y":{
-			"item": "assemblylinemachines:titanium_nugget"
+			"tag": "forge:nuggets/titanium"
 		}
 	},
 	"result":{
